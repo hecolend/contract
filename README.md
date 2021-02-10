@@ -41,3 +41,9 @@ https://scan.hecochain.com/address/0xc621ae702Bba5A884a843b640209aba23780BB90#co
 
 BCHUSDT:
 https://scan.hecochain.com/address/0x6462ef225dE2c32FC7ACCB769B40FC6918478031#contracts
+
+RewardToken:
+https://scan.hecochain.com/address/0x1daF05bcd669D914Dc991140e9f30436a02C1697#contracts
+
+Reservoir:
+https://scan.hecochain.com/address/0x369801b528aAc0045547238d4cdD83c507d440fF#contracts
